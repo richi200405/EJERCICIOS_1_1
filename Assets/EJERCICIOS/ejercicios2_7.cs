@@ -12,6 +12,7 @@ public class ejercicios2_7 : MonoBehaviour
     {
         int farmeo = oro * 60 * 4;
         Debug.Log(farmeo);
+
     }
 
     // Update is called once per frame
